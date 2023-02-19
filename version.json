@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "node_id": "RE_kwDOFEUc3M4E8VcG",
-  "tag_name": "1.1.1",
+  "tag_name": "1.1.0",
   "target_commitish": "main",
   "name": "1.1.1: Fix FlySales Windows ",
   "draft": false,
